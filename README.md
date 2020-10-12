@@ -4,7 +4,7 @@
 
 
 In this project the flight booking steps are automated with Selenium WebDriver.
-<img src='./images/Selenium_Python.jpeg' width=400>
+<img src='./images/Selenium_Python.jpeg' width=500>
 
 This tutorial will cover several important topics of Selenium, among others:
 
